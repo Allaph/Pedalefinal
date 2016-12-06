@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pedale</string>
+    <string name="action_sign_in_facebook">Sign in com Facebook</string>
+    <string name="facebook_app_id">345197355842659</string>
 </resources>

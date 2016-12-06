@@ -12,7 +12,7 @@ import allaphsamples.servegame.com.pedale.showbikes.ShowBikesActivity;
 import allaphsamples.servegame.com.pedale.showbikes.model.Bike;
 
 /**
- * Created by Gabe on 03/12/2016.
+ * Created by Allaph on 03/12/2016.
  */
 public class AddBikeActivity extends AppCompatActivity {
 

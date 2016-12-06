@@ -15,7 +15,7 @@ import allaphsamples.servegame.com.pedale.R;
 import allaphsamples.servegame.com.pedale.showbikes.model.Bike;
 
 /**
- * Created by Gabe on 03/12/2016.
+ * Created by Allaph on 03/12/2016.
  */
 public class ShowBikesAdapter extends RecyclerView.Adapter<ShowBikesAdapter.ItemViewHolder> {
 
